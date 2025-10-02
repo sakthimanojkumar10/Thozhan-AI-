@@ -1,0 +1,45 @@
+export const LANGUAGES = [
+  "English",
+  "Assamese",
+  "Bengali",
+  "Bodo",
+  "Dogri",
+  "Gujarati",
+  "Hindi",
+  "Kannada",
+  "Kashmiri",
+  "Konkani",
+  "Maithili",
+  "Malayalam",
+  "Manipuri",
+  "Marathi",
+  "Nepali",
+  "Odia",
+  "Punjabi",
+  "Sanskrit",
+  "Santali",
+  "Sindhi",
+  "Tamil",
+  "Telugu",
+  "Urdu",
+];
+
+export const SUBJECTS = [
+  "Physics",
+  "Chemistry",
+  "Biology",
+  "History",
+  "Geography",
+  "Mathematics",
+  "Computer Science",
+  "General",
+];
+
+export const CONTENT_TYPES = [
+  "Detailed Explanation",
+  "Quick Summary",
+  "Real-World Examples",
+  "Practice Questions",
+  "Step-by-step Guide",
+  "Analogy",
+];
