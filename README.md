@@ -1,20 +1,41 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+🚀 Overview
 
-# Run and deploy your AI Studio app
+GenAl is a cross-platform learning platform that leverages Hugging Face Transformers for local language processing. Students interact with adaptive lessons, simplified content, and quizzes in multiple Indian regional languages, all offline if needed. Parents can monitor progress and ensure an engaging, culturally relevant learning experience.
 
-This contains everything you need to run your app locally.
+Personalized Learning Journey: Tailored content and exercises for each student.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1ffSY9oGsa0TwO9HC8LdIFuOFQwNVC3nY
+Offline & Low-Bandwidth Ready: Lessons and progress tracking work without internet, syncing later.
 
-## Run Locally
+Parent Dashboard: Transparent tracking of student activities, quizzes, and improvements.
 
-**Prerequisites:**  Node.js
+Multilingual Support: Supports minimum 5 Indian languages, with examples relevant to students’ culture.
 
+AI-Powered Content Generation: Simplification, translation, and quiz generation without external APIs.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+🎯 Features
+
+Adaptive Lessons: Students can read, listen, and interact with content that adapts to their level.
+
+Quiz Generation: AI generates multiple-choice questions to reinforce learning.
+
+Pronunciation Assessment: Real-time evaluation using Web Speech API (web) or React Native Voice (mobile).
+
+Offline Progress Tracking: Students’ actions are stored locally and synced automatically when online.
+
+Parent Monitoring: Dashboard shows progress, completed lessons, quiz scores, and suggestions.
+
+Cultural Relevance: Lessons include familiar contexts to make learning more engaging.
+
+📊 Outputs Here are some sample outputs from Thozhan AI:
+
+Example 1: Login page
+
+<img width="1918" height="970" alt="Screenshot 2025-10-02 223716" src="https://github.com/user-attachments/assets/cef6ce63-35b0-4fc3-ab48-75e4c7cc2f58" />
+
+Example 2: Student Dashboard
+
+<img width="1908" height="973" alt="Screenshot 2025-10-02 223750" src="https://github.com/user-attachments/assets/19bf9dd0-8567-4757-99aa-75b6a6b3fedb" />
+
+Example 3: Parent Dashboard
+
+<img width="1918" height="978" alt="Screenshot 2025-10-02 223843" src="https://github.com/user-attachments/assets/2590fe14-5d83-4a88-acd0-d5105a549ba6" />
